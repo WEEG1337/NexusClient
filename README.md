@@ -8,3 +8,4 @@
 ⚡ Cette version apporte des améliorations, corrections et optimisations.
 
 Merci pour votre support 💙 https://discord.gg/2Gs7un5b
+release disponible  https://github.com/WEEG1337/NexusClient/releases/tag/v1.0
